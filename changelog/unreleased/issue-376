@@ -4,3 +4,4 @@ Requests rejected by Basic authentication now include a `WWW-Authenticate` heade
 allowing HTTP clients to prompt for credentials.
 
 https://github.com/restic/rest-server/issues/376
+https://github.com/restic/rest-server/pull/396
